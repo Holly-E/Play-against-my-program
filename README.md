@@ -8,6 +8,6 @@ probability that an outcome will occur and decide on the best move to make.
 You can play against this program in your browser using CodeSkulptor: a browser-based Python interpreter:
 <http://www.codeskulptor.org/#user47_WeXWaMCeAb_29.py>
 
-Press the Play arrow in upper left corner to start.
-To make a move, click in your selected box.
-The starting board size is 4 x 4 but this is easily modified in line 21 (changing 4 to 3 results in a 3 x 3 board size, etc.)
+* Press the Play arrow in upper left corner to start.
+* To make a move, click in your selected box - you are X's.
+* The starting board size is 4 x 4 but this is easily modified in line 21 (changing 4 to 3 results in a 3 x 3 board size, etc.)
